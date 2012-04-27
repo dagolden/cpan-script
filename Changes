@@ -1,3 +1,6 @@
+1.5902  - Thu Apr 26 21:41:38 EDT 2012
+	* Remove another "require v5.10.1" (from Makefile.PL)
+
 1.5901  - Thu Apr 26 10:19:09
 	* Hide some internal packages from PAUSE indexing
 
